@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Petfinder</string>
+    <string name="select_animal_type">Select animal type</string>
+    <string name="select_animal_bread">Select animal bread</string>
+</resources>
